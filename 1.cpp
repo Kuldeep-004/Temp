@@ -6,4 +6,4 @@ int main()
     int a=b++;
     cout << a << endl;
     cout << b << b++ << endl;
-}
+}   
